@@ -1,0 +1,3 @@
+com\ca\domain\CustomerAgreement.class
+com\ca\controller\CustomerAgreementController.class
+com\ca\dto\CustomerAgreementDto.class
